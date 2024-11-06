@@ -1,0 +1,1 @@
+var json_RumahSaya_20 = {"type":"FeatureCollection","name":"RumahSaya_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Rumah Saya"},"geometry":{"type":"Point","coordinates":[108.925405026596394,-7.451464591381229]}}]}

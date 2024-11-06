@@ -1,0 +1,1 @@
+var json_KantorDesaCingebul_10 = {"type":"FeatureCollection","name":"KantorDesaCingebul_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Balai Desa Cingebul"},"geometry":{"type":"Point","coordinates":[108.895737773639553,-7.455535018357047]}}]}
